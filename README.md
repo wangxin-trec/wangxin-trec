@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wangxin-trec.
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning Android automated testing.
+- 💞️ I’m looking to collaborate on Data Scientist and Researcher.
+- 📫 How to reach me 10153702wang_xin@cn.tre-inc.com
